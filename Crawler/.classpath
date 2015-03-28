@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/ezmorph-0.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/JAR/opencsv-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
